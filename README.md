@@ -24,7 +24,7 @@ Significations des symboles :
 - div#byName > p:nth-child(2n+1) span[class*=re] {};
   - ce sélecteur s'applique aux paragraphes impairs et aux spans dont la classe contient "re" à un endroit. Ils doivent aussi être descendants directs d'une div dont l'id est "byName"
 - article p+p.description:nth-child(2n+1) {};
-  - ce sélecteur s'applique aux paragraphe de la classe description, impairs (2n+1) qui sont juste après un paragraphe ou un article (<p> ou <article>)
+  - ce sélecteur s'applique aux paragraphe de la classe description, impairs (2n+1) qui sont juste après un paragraphe ou un article
 
 ## Exercice 2
 
