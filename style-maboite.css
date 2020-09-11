@@ -1,0 +1,24 @@
+
+             .titre{
+                background-color: azure;
+                 color: blue;
+                 border: 1px solid #000000;
+                 padding: 0.6em;
+             }
+
+             .container ,footer{
+                background-color: azure;
+                border: 1px solid #000000;
+             }
+             .article{
+                 background-color : white;
+                 border: 1px solid #000000;
+                 margin-bottom: 1em;
+                 margin-left: 1em;
+                 margin-right: 1em;
+             }
+             footer{
+                 margin-top: 2em;
+                 color: blue;
+                 padding: 1em;
+             }
