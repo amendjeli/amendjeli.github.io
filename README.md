@@ -5,7 +5,7 @@ Asseel Mendjeli																																																4ICS
 
 ## Exercice 0
 
-voir fichier tp2.html et style-tp2.css
+https://amendjeli.github.io/tp2.html
 
 ## Exercice 1
 
@@ -28,7 +28,7 @@ Significations des symboles :
 
 ## Exercice 2
 
-ma-boite.html et style-maboite.css
+https://amendjeli.github.io/ma-boite.html
 
 ## Exercice 3
 
